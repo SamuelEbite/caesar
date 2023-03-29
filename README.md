@@ -1,4 +1,4 @@
-Caesar Cipher
+#Caesar Cipher
 
 This is a C program that implements the Caesar cipher algorithm for encrypting plaintext. The program takes a single command-line argument, which is the "key" to use for the encryption.
 
